@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16453233351",
+    "project_id": "culina-14e7f",
+    "storage_bucket": "culina-14e7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16453233351:android:cf659f6e2a54ab7dea6ce2",
+        "android_client_info": {
+          "package_name": "com.example.culina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDVh9MV0j2tO0KIW4tv0Yo9tKz2fc2PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16453233351:android:5aa3daf1f50ad742ea6ce2",
+        "android_client_info": {
+          "package_name": "com.example.myculina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDVh9MV0j2tO0KIW4tv0Yo9tKz2fc2PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
